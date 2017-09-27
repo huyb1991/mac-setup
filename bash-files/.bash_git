@@ -4,7 +4,12 @@
 
 #   Helper functions
 #   ------------------------------------------------------------
-    gitConfig() { git config user.name "$1"; git config user.email "$2"; }
+    gitConfigUser() { git config user.name "$1"; git config user.email "$2"; }
+    gitDelete() { git branch -D "$1"; }
+    gitGo() { git checkout "$1"; }
+    gitNew() { git checkout -b "$1"; }
+    gitCommit() { git commit -m "$1"; }
+    gitUser() { git config user.name; git config user.email; }          # Check name and email config
 
 #   Alias
 #   ------------------------------------------------------------
@@ -12,11 +17,6 @@
     alias gs='git status'
     alias gb='git branch'
     alias gba='git branch -a'
-    alias gbd='git branch -D '
     alias gca='git commit --amend'
-    alias gcm='git commit -m '
-    alias gco='git checkout '
     alias gf='git fetch'
     alias gl='git log'
-
-    alias git_huyb='gitConfig "Huy Nguyen" huyb.1991@gmail.com'

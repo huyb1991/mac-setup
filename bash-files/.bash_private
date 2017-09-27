@@ -1,0 +1,8 @@
+#   -------------------------------
+#   PRIVATE/PERSONAL BASH SCRIPT CONFIGS
+#   -------------------------------
+
+#   Do your private/personal bash script in this file
+#   Here's an example for my git config username and email, replace it by your own
+
+alias git_huyb='gitConfigUser "Huy Nguyen" huyb.1991@gmail.com'
