@@ -17,7 +17,6 @@
     export GITAWAREPROMPT=~/.bash/git-aware-prompt
     export BASH_DIR=~/bash-files                        # All bash scripts save here
 
-#   Change Prompt
 #   Git Aware Prompt: https://github.com/jimeh/git-aware-prompt
     export PS1="\u@\h \W \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ "
 
@@ -46,8 +45,7 @@
 #   -------------------------------
 #   4. LOAD MY BASH FILES CONFIGURATION AND PACKAGES
 #   -------------------------------
-
+    source "${GITAWAREPROMPT}/main.sh"
     source "$BASH_DIR/.bash_git"                          # Git configurations
     source "$BASH_DIR/.bash_webdev"                       # Web development
-    source "$BASH_DIR/.bash_private"                      # Private config
-    source "${GITAWAREPROMPT}/main.sh"
+    source "$BASH_DIR/.bash_private"                      # Private config - make sure it latest

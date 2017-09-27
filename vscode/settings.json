@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 16,
+    "editor.tabSize": 2,
+    "editor.renderWhitespace": "all",
+    "editor.minimap.enabled": false,
+    "editor.wordWrap": "on",
+    "files.insertFinalNewline": true,
+    "window.zoomLevel": 0
+}
