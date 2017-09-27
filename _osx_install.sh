@@ -6,11 +6,15 @@ echo '\n'
 echo 'Install Homebrew and cask...'
 ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+# Apps from AppStore
+
 # Core Apps
 echo 'Install Core Apps'
 brew cask install google-chrome
 brew cask install skype
 brew cask install slack
+brew cask install telegram
+brew cask install skitch
 
 # Development
 echo 'Install Dev Apps'
