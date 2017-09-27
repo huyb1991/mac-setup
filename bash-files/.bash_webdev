@@ -1,0 +1,10 @@
+#  ---------------------------------------------------------------------------
+#  Description:  This file for my Web Development configurations
+#  ---------------------------------------------------------------------------
+
+#   -----------------------------
+#   1. NodeJS
+#   -----------------------------
+
+#   Enable nvm (installed via Homebrew)
+    source $(brew --prefix nvm)/nvm.sh

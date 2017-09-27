@@ -1,0 +1,7 @@
+### Linux ###
+*~
+.directory
+
+### OSX ###
+*.DS_Store
+

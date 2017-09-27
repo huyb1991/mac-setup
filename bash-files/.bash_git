@@ -1,0 +1,22 @@
+#  ---------------------------------------------------------------------------
+#  Description:  This file holds all my GIT configurations and aliases
+#  ---------------------------------------------------------------------------
+
+#   Helper functions
+#   ------------------------------------------------------------
+    gitConfigUser() { git config user.name "$1"; git config user.email "$2"; }
+    gitDelete() { git branch -D "$1"; }
+    gitGo() { git checkout "$1"; }
+    gitNew() { git checkout -b "$1"; }
+    gitCommit() { git commit -m "$1"; }
+    gitUser() { git config user.name; git config user.email; }          # Check name and email config
+
+#   Alias
+#   ------------------------------------------------------------
+    alias ga='git add .'
+    alias gs='git status'
+    alias gb='git branch'
+    alias gba='git branch -a'
+    alias gca='git commit --amend'
+    alias gf='git fetch'
+    alias gl='git log'
