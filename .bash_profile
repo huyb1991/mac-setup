@@ -14,20 +14,20 @@
     export PATH="$PATH:/usr/local/bin/"
     export EDITOR=/usr/bin/nano
     export NVM_DIR=~/.nvm
-    export GITAWAREPROMPT=~/.bash/git-aware-prompt
     export BASH_DIR=~/bash-files                        # All bash scripts save here
 
-#   Git Aware Prompt: https://github.com/jimeh/git-aware-prompt
-    export PS1="\u@\h \W \[$txtcyn\]\$git_branch\[$txtred\]\$git_dirty\[$txtrst\]\$ "
+#   Add Git Branch Name to Terminal Prompt (Mac)
+#   https://gist.github.com/joseluisq/1e96c54fa4e1e5647940
+    parse_git_branch() {
+        git branch 2> /dev/null | sed -e '/^[^*]/d' -e 's/* \(.*\)/ (\1)/'
+    }
+
+    export PS1="\u@\h \W\[\033[32m\]\$(parse_git_branch)\[\033[00m\] $ "
 
 #   -----------------------------
 #   2. COMPLETION
 #   -----------------------------
-#   Install the bash-completion package on MacOS X using port or brew.
-#   Bash-git-completion: https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion
-    if [ -f $(brew --prefix)/etc/bash_completion ]; then
-        . $(brew --prefix)/etc/bash_completion
-    fi
+#
 
 #   -----------------------------
 #   3. HELPER FUNCTIONS & ALIASES
@@ -45,7 +45,6 @@
 #   -------------------------------
 #   4. LOAD MY BASH FILES CONFIGURATION AND PACKAGES
 #   -------------------------------
-    source "${GITAWAREPROMPT}/main.sh"
     source "$BASH_DIR/.bash_git"                          # Git configurations
     source "$BASH_DIR/.bash_webdev"                       # Web development
     source "$BASH_DIR/.bash_private"                      # Private config - make sure it latest
