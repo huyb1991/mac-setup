@@ -11,17 +11,21 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 # Core Apps
 echo 'Install Core Apps'
 brew cask install google-chrome
-brew cask install skype
 brew cask install slack
 brew cask install telegram
-brew cask install skitch
+# brew cask install skype
+# brew cask install skitch
 
 # Development
 echo 'Install Dev Apps'
-brew install bash-completion
 brew install git
+brew install bash-completion
 brew install nvm
 brew cask install postman
+
+# Setup bash-completion: https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion
+[ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
+
 
 # cleanup
 brew cleanup --force
