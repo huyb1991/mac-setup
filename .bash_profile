@@ -14,7 +14,7 @@
     export PATH="$PATH:/usr/local/bin/"
     export EDITOR=/usr/bin/nano
     export NVM_DIR=~/.nvm
-    export BASH_DIR=~/bash-files                        # All bash scripts save here
+    export BASH_DIR=~/bash-files                          # All bash scripts save here
 
 #   Add Git Branch Name to Terminal Prompt (Mac)
 #   https://gist.github.com/joseluisq/1e96c54fa4e1e5647940
@@ -33,14 +33,12 @@
 #   3. HELPER FUNCTIONS & ALIASES
 #   -----------------------------
 #   Helper functions
-    mcd () { mkdir -p "$1" && cd "$1"; }        # Makes new Dir and jumps inside
+    mcd () { mkdir -p "$1" && cd "$1"; }                  # Makes new Dir and jumps inside
 
 #   Aliases
-    alias cd..='cd ../'                         # Go back 1 directory level (for fast typers)
-    alias ..='cd ../'                           # Go back 1 directory level
-    alias ...='cd ../../'                       # Go back 2 directory levels
-    alias ~="cd ~"                              # ~:            Go Home
-    alias flushDNS='dscacheutil -flushcache'    # flushDNS:     Flush out the DNS Cache
+    alias ~="cd ~"                                        # Go Home
+    alias ..='cd ../'                                     # Go back 1 directory level
+    alias flushDNS='dscacheutil -flushcache'                # Flush out the DNS Cache
 
 #   -------------------------------
 #   4. LOAD MY BASH FILES CONFIGURATION AND PACKAGES
