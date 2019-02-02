@@ -11,12 +11,15 @@
 
 ### Productivity
 
-- [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor
-- [Spectacle](https://www.spectacleapp.com) - Move and resize windows
-- [Wunderlist](https://www.wunderlist.com) - To-do list
-- [Alfred](https://www.alfredapp.com) - Custom actions to control your Mac
+#### [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor
+#### [Spectacle](https://www.spectacleapp.com) - Move and resize windows
+#### [Wunderlist](https://www.wunderlist.com) - To-do list
+#### [Alfred](https://www.alfredapp.com) - Custom actions to control your Mac
 
 ### Development
+
+#### [VS Code](https://code.visualstudio.com) - Code editor
+- My favorite editor that I use to write code in, here is my [VS configuration](/vscode)
 
 ### Reading and Writing
 
