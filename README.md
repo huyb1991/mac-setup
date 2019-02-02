@@ -6,26 +6,30 @@
 
 - [Productivity](#productivity)
 - [Development](#development)
+  - [VSCode](#vscode)
+  - [dotfiles](#dotfiles)
 - [Reading and Writing](#reading-and-writing)
 - [Browsers](#browsers)
 
-### Productivity
+## Productivity
 
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor
 #### [Spectacle](https://www.spectacleapp.com) - Move and resize windows
 #### [Wunderlist](https://www.wunderlist.com) - To-do list
 #### [Alfred](https://www.alfredapp.com) - Custom actions to control your Mac
 
-### Development
+## Development
 
-#### [VS Code](https://code.visualstudio.com) - Code editor
-- My favorite editor that I use to write code in, here is my [VS configuration](/vscode)
+### [VS Code](https://code.visualstudio.com) - Code editor
+- My favorite editor that I use to write code in, here is detail my [VS configuration](/vscode) for setting, snippets, extensions and themes
 
-### Reading and Writing
+### [dotfiles](/dotfiles)
+
+## Reading and Writing
 
 - [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
 
-### Browsers
+## Browsers
 
 #### [Safari](https://www.apple.com/safari/)
 
