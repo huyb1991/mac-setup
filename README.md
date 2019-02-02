@@ -10,6 +10,8 @@
   - [dotfiles](#dotfiles)
 - [Reading and Writing](#reading-and-writing)
 - [Browsers](#browsers)
+- [Social](#social)
+- [Entertainment](#entertainment)
 
 ## Productivity
 
@@ -25,6 +27,11 @@
 
 ### [dotfiles](/dotfiles)
 
+### [Postman](https://www.getpostman.com) - API development environment
+
+- Testing API
+- Easy custom environments and save history API requested
+
 ## Reading and Writing
 
 - [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
@@ -39,3 +46,19 @@
 
 - I'm using Chrome for web development cuz Chrome Dev tools is really good
 
+## Social
+
+#### [Telegram](https://desktop.telegram.org/) - Messenger
+
+- Clean interface, very smooth and support multiple platforms
+
+#### [Slack](https://slack.com/) - Team communications
+
+- I'm using Slack for work and team communications
+- Easy to integrates with other app / services
+
+## Entertainment
+
+#### [Spotify](https://www.spotify.com/) - Music streaming
+
+#### [Steam](https://store.steampowered.com/) - Online game platform
