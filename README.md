@@ -23,7 +23,10 @@
 ## Development
 
 ### [VS Code](https://code.visualstudio.com) - Code editor
-- My favorite editor that I use to write code in, here is detail my [VS configuration](/vscode) for setting, snippets, extensions and themes
+- My favorite editor right now (switched from [Sublime Text](https://www.sublimetext.com/))
+    - [Extensions](https://github.com/huyb1991/mac-setup/tree/master/vscode#extensions)
+    - [Snippets](https://github.com/huyb1991/mac-setup/tree/master/vscode#snippets)
+    - [Theme & Icons](https://github.com/huyb1991/mac-setup/tree/master/vscode#theme--icons)
 
 ### [dotfiles](/dotfiles)
 
