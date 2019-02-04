@@ -1,0 +1,27 @@
+{
+  "Import react": {
+    "prefix": "imr",
+    "body": ["import React from 'react'"],
+    "description": "Import React 234"
+  },
+  "Import PropTypes": {
+    "prefix": "impt",
+    "body": ["import PropTypes from 'prop-types'"],
+    "description": "Import PropTypes"
+  },
+  "Import Styled-Components": {
+    "prefix": "ims",
+    "body": "import styled from 'styled-components'",
+    "description": "Import Styled-Components"
+  },
+  "Stateless Component": {
+    "prefix": "sl",
+    "body": [
+      "const ${TM_FILENAME_BASE} = () => (",
+      "\t$1",
+      ")",
+      "",
+      "export default ${TM_FILENAME_BASE}"
+    ]
+  }
+}

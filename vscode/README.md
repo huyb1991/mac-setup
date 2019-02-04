@@ -14,7 +14,10 @@
 
 ## Snippets
 
-- [JavaScript](https://github.com/huyb1991/mac-setup/blob/master/vscode/snippets/javascript.json)
+- [js.code-snippets](https://github.com/huyb1991/mac-setup/blob/master/vscode/snippets/js.code-snippets)
+
+- [react.code-snippets](https://github.com/huyb1991/mac-setup/blob/master/vscode/snippets/react.code-snippets)
+    - Refer: [React-Native/React/Redux snippets for es6/es7](https://marketplace.visualstudio.com/items?itemName=EQuimper.react-native-react-redux)
 
 ## Theme & Icons
 
