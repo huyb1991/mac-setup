@@ -2,7 +2,7 @@
   "Import react": {
     "prefix": "imr",
     "body": ["import React from 'react'"],
-    "description": "Import React 234"
+    "description": "Import React"
   },
   "Import PropTypes": {
     "prefix": "impt",
@@ -13,6 +13,12 @@
     "prefix": "ims",
     "body": "import styled from 'styled-components'",
     "description": "Import Styled-Components"
+  },
+  "Import Comonent": {
+    "prefix": "imc",
+    "body": [
+      "import ${1} from './${1}'"
+    ]
   },
   "Stateless Component": {
     "prefix": "sl",
