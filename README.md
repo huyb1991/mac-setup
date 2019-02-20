@@ -11,6 +11,7 @@
 - [Reading and Writing](#reading-and-writing)
 - [Browsers](#browsers)
 - [Social](#social)
+- [Streaming](#streaming)
 - [Entertainment](#entertainment)
 
 ## Productivity
@@ -37,7 +38,13 @@
 
 ## Reading and Writing
 
-- [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
+#### [PDF Expert](https://pdfexpert.com/) - PDF reader/editor
+
+#### [Pocket](https://getpocket.com/) - Read Later app
+
+- My favorite **Read It Later** app and exploring top articles on Internet
+- Clean interface and focus to content
+- Support multiple platforms and extensions for browsers
 
 ## Browsers
 
@@ -59,6 +66,12 @@
 
 - I'm using Slack for work and team communications
 - Easy to integrates with other app / services
+
+## [Streaming]
+
+#### [Open Broadcaster Software](https://obsproject.com)
+
+- Video recording and live streaming supporting multi platforms
 
 ## Entertainment
 
