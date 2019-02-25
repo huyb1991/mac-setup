@@ -20,8 +20,8 @@ brew cask install telegram
 echo 'Install Dev Apps'
 brew install git
 brew install bash-completion
-brew install nvm
-brew cask install postman
+# brew install nvm                # Should install via git or manual, update later
+# brew cask install postman
 
 # Setup bash-completion: https://github.com/bobthecow/git-flow-completion/wiki/Install-Bash-git-completion
 [ -f /usr/local/etc/bash_completion ] && . /usr/local/etc/bash_completion
