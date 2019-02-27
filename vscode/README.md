@@ -24,3 +24,6 @@
 - [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
+## Fonts
+
+- [Fantasque Sans Mono](https://github.com/belluzj/fantasque-sans)
