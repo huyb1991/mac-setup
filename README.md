@@ -6,8 +6,9 @@
 
 - [Productivity](#productivity)
 - [Development](#development)
-  - [VSCode](#vscode)
+  - [Terminal](#terminal)
   - [dotfiles](#dotfiles)
+  - [VSCode](#vscode)
 - [Reading and Writing](#reading-and-writing)
 - [Photo and Video Editing](#photo-and-video-editing)
 - [Browsers](#browsers)
@@ -24,16 +25,22 @@
 
 ## Development
 
+#### [Terminal]
+
+- I'm using default terminal on MacOS
+    - Theme: [Draculatheme](https://draculatheme.com/terminal/)
+    - Font: Monaco
+
+#### [dotfiles](/dotfiles)
+
+- My dotfiles configs for more productivity
+
 #### [VS Code](https://code.visualstudio.com) - Code editor
 
 - My favorite editor right now (switched from [Sublime Text](https://www.sublimetext.com/))
     - [Extensions](https://github.com/huyb1991/mac-setup/tree/master/vscode#extensions)
     - [Snippets](https://github.com/huyb1991/mac-setup/tree/master/vscode#snippets)
     - [Theme & Icons](https://github.com/huyb1991/mac-setup/tree/master/vscode#theme--icons)
-
-#### [dotfiles](/dotfiles)
-
-- My dotfiles configs for more productivity
 
 #### [Postman](https://www.getpostman.com) - API development environment
 
