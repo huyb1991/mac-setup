@@ -24,15 +24,18 @@
 
 ## Development
 
-### [VS Code](https://code.visualstudio.com) - Code editor
+#### [VS Code](https://code.visualstudio.com) - Code editor
+
 - My favorite editor right now (switched from [Sublime Text](https://www.sublimetext.com/))
     - [Extensions](https://github.com/huyb1991/mac-setup/tree/master/vscode#extensions)
     - [Snippets](https://github.com/huyb1991/mac-setup/tree/master/vscode#snippets)
     - [Theme & Icons](https://github.com/huyb1991/mac-setup/tree/master/vscode#theme--icons)
 
-### [dotfiles](/dotfiles)
+#### [dotfiles](/dotfiles)
 
-### [Postman](https://www.getpostman.com) - API development environment
+- My dotfiles configs for more productivity
+
+#### [Postman](https://www.getpostman.com) - API development environment
 
 - Testing API
 - Easy custom environments and save history API requested
