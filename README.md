@@ -9,6 +9,7 @@
   - [VSCode](#vscode)
   - [dotfiles](#dotfiles)
 - [Reading and Writing](#reading-and-writing)
+- [Photo and Video Editing](#photo-and-video-editing)
 - [Browsers](#browsers)
 - [Social](#social)
 - [Streaming](#streaming)
@@ -45,6 +46,17 @@
 - My favorite **Read It Later** app and exploring top articles on Internet
 - Clean interface and focus to content
 - Support multiple platforms and extensions for browsers
+
+## Photo and Video Editing
+
+#### [GIPHY Capture. The GIF Maker](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984)
+
+- Capture GIFs up to 30 seconds long
+- Simple to save and sharing image
+
+#### [Skitch](https://itunes.apple.com/us/app/skitch-snap-mark-up-share/id425955336)
+
+- Capture screenshot and edit image: Adding text, vectors, markup
 
 ## Browsers
 
