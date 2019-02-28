@@ -12,6 +12,8 @@
 
 - [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator) - Highlights the current indent depth
 
+- [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Syntax highlighting for GraphQL files and gql templates inside JavaScript files
+
 ## Snippets
 
 - [js.code-snippets](https://github.com/huyb1991/mac-setup/blob/master/vscode/snippets/js.code-snippets)
