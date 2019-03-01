@@ -29,7 +29,7 @@
 
 - I'm using default terminal on MacOS
     - Theme: [Draculatheme](https://draculatheme.com/terminal/)
-    - Font: Monaco
+    - Font: [mononoki](https://madmalik.github.io/mononoki/)
 
 #### [dotfiles](/dotfiles)
 
