@@ -31,6 +31,8 @@
     - Theme: [Draculatheme](https://draculatheme.com/terminal/)
     - Font: [mononoki](https://madmalik.github.io/mononoki/)
 
+![My terminal](/terminal.png?raw=true)
+
 #### [dotfiles](/dotfiles)
 
 - My dotfiles configs for more productivity
