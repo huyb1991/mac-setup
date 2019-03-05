@@ -4,6 +4,11 @@
     "body": ["import React from 'react'"],
     "description": "Import React"
   },
+  "Import react-native": {
+    "prefix": "imrn",
+    "body": ["import { View, Text } from 'react-native'"],
+    "description": "Import React"
+  },
   "Import PropTypes": {
     "prefix": "impt",
     "body": ["import PropTypes from 'prop-types'"],
