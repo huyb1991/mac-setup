@@ -14,6 +14,8 @@
 
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Syntax highlighting for GraphQL files and gql templates inside JavaScript files
 
+- [Flow for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
+
 ## Snippets
 
 - [js.code-snippets](https://github.com/huyb1991/mac-setup/blob/master/vscode/snippets/js.code-snippets)
