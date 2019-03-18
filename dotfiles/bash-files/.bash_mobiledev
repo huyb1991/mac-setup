@@ -1,0 +1,11 @@
+#  ---------------------------------------------------------------------------
+#  Description:  This file for my Mobile Development configurations
+#  ---------------------------------------------------------------------------
+
+#   -----------------------------
+#   1. React Native
+#   -----------------------------
+
+#   Clean curent build, kill metro bundler build then re-build
+
+alias rn-clean='rm -rf ios/build/; kill $(lsof -t -i:8081); react-native run-ios'
