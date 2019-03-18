@@ -45,4 +45,5 @@
 #   -------------------------------
     source "$BASH_DIR/.bash_git"                          # Git configurations
     source "$BASH_DIR/.bash_webdev"                       # Web development
+    source "$BASH_DIR/.bash_mobiledev"                    # Mobile development
     source "$BASH_DIR/.bash_private"                      # Private config - make sure it latest
