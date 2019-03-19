@@ -9,3 +9,5 @@
 #   Clean curent build, kill metro bundler build then re-build
 
 alias rn-clean='rm -rf ios/build/; kill $(lsof -t -i:8081); react-native run-ios'
+alias rn-ios='react-native run-ios'
+alias rn-and='react-native run-android'
