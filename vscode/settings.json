@@ -1,9 +1,15 @@
 {
-    "editor.fontSize": 16,
-    "editor.tabSize": 2,
+    "editor.fontSize": 20,
     "editor.renderWhitespace": "all",
+    "editor.tabSize": 2,
     "editor.minimap.enabled": false,
-    "editor.wordWrap": "on",
-    "files.insertFinalNewline": true,
-    "window.zoomLevel": 0
+    "editor.lineHeight": 24,
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "One Dark Pro",
+    "editor.fontFamily": "Fantasque Sans Mono, Menlo, Monaco, 'Courier New', monospace",
+    "flow.useNPMPackagedFlow": true,
+    "workbench.list.automaticKeyboardNavigation": true,
+    "php.suggest.basic": false
 }
