@@ -18,6 +18,7 @@
 
 ## Productivity
 
+#### [CleanMyMac X](https://macpaw.com/cleanmymac)
 #### [iStat Menus](https://bjango.com/mac/istatmenus/) - System monitor
 #### [Spectacle](https://www.spectacleapp.com) - Move and resize windows
 #### [Wunderlist](https://www.wunderlist.com) - To-do list
