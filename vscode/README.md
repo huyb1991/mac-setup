@@ -16,6 +16,8 @@
 
 - [Apollo GraphQL](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - Syntax highlighting for GraphQL files and gql templates inside JavaScript files
 
+- [VSCode GraphQL](https://marketplace.visualstudio.com/items?itemName=Prisma.vscode-graphql) - Syntax highlighting for GraphQL by Prisma
+
 - [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
 
 ## Snippets
