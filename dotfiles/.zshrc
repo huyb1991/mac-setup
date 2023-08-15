@@ -29,4 +29,4 @@ alias gb='git branch'
 alias gl='git log'
 
 alias ssh_huyb='ssh-add ~/.ssh/github_huyb1991'
-alias git_huyb='git config user.name "Huy Nguyen" && git config user.email "huyb.1991@gmail.com"'
+alias git_huyb='git config user.name "Huy Nguyen" && git config user.email "myemail@gmail.com"'
